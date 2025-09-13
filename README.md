@@ -32,12 +32,12 @@ It combines *descriptive, predictive,* and *prescriptive* analytics to address d
 ---
 
 ## 🗂 Repository Contents
-- **Final Report** – [`MBAS906_Wasupon_Business Report_A3.pdf`](MBAS906_Wasupon_Business%20Report_A3.pdf)  
-  Full analytics write-up (descriptive → predictive → prescriptive), forecasting table, and recommendations.
-- **Presentation (Exec Slides)** – [`MBAS906 Presentation 2.pdf`](MBAS906%20Presentation%202.pdf)  
-  Key charts: participant trends, team types, donation channels, geo insights, occupation/gender cuts.
 - **Proposal (Initial Plan)** – [`MBAS906_A1_Proposal_Asama_Wasupon.pdf`](MBAS906_A1_Proposal_Asama_Wasupon.pdf)  
   Research background, objectives, and planned methods.
+- **Presentation (Exec Slides)** – [`MBAS906 Presentation 2.pdf`](MBAS906%20Presentation%202.pdf)  
+  Key charts: participant trends, team types, donation channels, geo insights, occupation/gender cuts.
+- **Final Report** – [`MBAS906_Wasupon_Business Report_A3.pdf`](MBAS906_Wasupon_Business%20Report_A3.pdf)  
+  Full analytics write-up (descriptive → predictive → prescriptive), forecasting table, and recommendations.
 
 > Filenames retain original course submission names for authenticity.
 
@@ -50,9 +50,9 @@ It combines *descriptive, predictive,* and *prescriptive* analytics to address d
 ---
 
 ## ▶️ How to Navigate
-1. Start with **Presentation** for a high-level story.  
-2. Read **Final Report** for methodology, modelling metrics, and detailed figures.  
-3. Check **Proposal** to see original scope and research framing.
+1. Start with **Proposal** to see original scope and research framing.
+2. Check **Presentation** for a high-level story.  
+3. Read **Final Report** for methodology, modelling metrics, and detailed figures. 
 
 ---
 
